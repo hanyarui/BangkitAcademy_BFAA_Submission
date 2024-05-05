@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Github Favorite User</string>
+    <string name="user_not_found">User not found please search\n for another username.</string>
+    <string name="search_guide">Click search icon above to search username</string>
+    <string name="content_description">User Avatar</string>
+    <string name="followers_title">Follower</string>
+    <string name="following_title">Following</string>
+    <string name="following">Following \n%d</string>
+    <string name="follower">Follower \n%d</string>
+    <string name="name_placeholder">Nama</string>
+    <string name="username_placeholder">Username</string>
+    <string name="details_bio">Computer Science Student, currently dwelling on android development.</string>
+
+    <!-- Settings -->
+    <string name="light_theme">Light Theme</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="setting">Setting</string>
+
+    <string-array name="tab_title">
+        <item>@string/followers_title</item>
+        <item>@string/following_title</item>
+    </string-array>
+</resources>
